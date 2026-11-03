@@ -12,6 +12,8 @@ The thesis of the project: **models are only valuable if they change where a bus
 spends its retention budget.** Every model output is therefore converted into a
 decision artifact — priority buckets, a churner-capture table vs random targeting,
 and an explicit *do-not-target* group.
+<img width="1516" height="697" alt="image" src="https://github.com/user-attachments/assets/a05f7dc8-3ef3-4e31-b930-39778f3ba5bb" />
+
 
 ## Project structure
 
@@ -96,3 +98,5 @@ Open **`outputs/reports/BUSINESS_REPORT.md`** last — it's the executive synthe
 - Telecom data is single-snapshot — time-based features (usage trend) would lift AUC.
 - Campaign economics are simulated on assumptions; an A/B uplift test is the real
   thing to run in production.
+<img width="1226" height="556" alt="image" src="https://github.com/user-attachments/assets/76bb63fb-372f-49a8-847c-2e044e87b5aa" />
+<img width="1162" height="667" alt="image" src="https://github.com/user-attachments/assets/db849f92-c4bb-4330-b01e-970fc68e1c49" />
