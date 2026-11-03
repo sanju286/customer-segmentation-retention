@@ -1,0 +1,5 @@
+RFM_Segment,Customers,Revenue,AvgRecency,AvgFrequency,AvgMonetary,RevenueSharePct
+01 Champions & Loyal,1000,2580596.64,48.46,5.04,2580.6,69.61
+02 Potential Loyalists / New,498,221018.35,59.48,1.03,443.81,5.96
+03 At Risk / Can't Lose,498,553316.27,204.64,2.79,1111.08,14.93
+04 Hibernating / Lost,1000,352087.13,285.61,1.02,352.09,9.5

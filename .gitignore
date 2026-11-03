@@ -1,0 +1,13 @@
+# Datasets are large and Kaggle/UCI licensed -> re-download with src/01_data_acquisition.py
+data/raw/
+
+# Runtime / local artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+.cache/
+
+# OS noise
+Thumbs.db
+.DS_Store

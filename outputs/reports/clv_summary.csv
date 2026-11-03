@@ -1,0 +1,5 @@
+RFM_Segment,customers,clv_avg,clv_total,churn_proxy_rate,avg_recency,avg_rfm_score,expected_loss
+01 Champions & Loyal,1000,1036.91,1036905.12,0.0,48.46,28.23,0.0
+02 Potential Loyalists / New,498,266.29,132610.97,0.0,59.48,24.8,0.0
+03 At Risk / Can't Lose,498,638.88,318164.54,0.59,204.64,9.22,189109.85
+04 Hibernating / Lost,1000,211.25,211252.27,0.82,285.61,4.66,173015.61
